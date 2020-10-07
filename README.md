@@ -1,1 +1,1 @@
-# KosmoProject
+# javaProject_1
